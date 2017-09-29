@@ -5,3 +5,5 @@ NSString *str = @"asdf";
 NSLog(@"%@",str);
 // qwe
 NSLog(@"123");
+
+NSLog(@"df");
